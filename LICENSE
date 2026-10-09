@@ -1,0 +1,30 @@
+ISO 27001 Toolkit en español
+Copyright (c) 2026 Carlos Adrián Guzmán / Cipherwell
+
+Este trabajo está licenciado bajo la licencia Creative Commons
+Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0).
+
+Resumen (no sustituye al texto legal):
+
+  Usted es libre de:
+    - Compartir: copiar y redistribuir el material en cualquier medio o formato.
+    - Adaptar: remezclar, transformar y construir a partir del material
+      para cualquier propósito, incluso comercialmente.
+
+  Bajo los siguientes términos:
+    - Atribución: debe dar crédito de manera adecuada, brindar un enlace a la
+      licencia e indicar si se han realizado cambios.
+    - CompartirIgual: si remezcla, transforma o crea a partir del material,
+      debe distribuir su contribución bajo la misma licencia que el original.
+
+Atribución sugerida:
+  "Basado en ISO 27001 Toolkit en español, de Carlos Adrián Guzmán / Cipherwell
+   (https://github.com/adriangzmncrz-arch/iso27001-toolkit-es), CC BY-SA 4.0."
+
+Texto legal completo:
+  https://creativecommons.org/licenses/by-sa/4.0/legalcode.es
+
+Nota sobre ISO/IEC 27001:
+  Este repositorio no reproduce el texto de la norma ISO/IEC 27001:2022, que es
+  propiedad de ISO e IEC. Los nombres de controles incluidos son traducciones
+  libres con fines de referencia.

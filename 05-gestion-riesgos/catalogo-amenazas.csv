@@ -1,0 +1,31 @@
+id,amenaza,categoria,dimension_tipica
+AM-01,Phishing e ingeniería social,Humana deliberada,"C, I"
+AM-02,Ransomware,Software malicioso,"I, D"
+AM-03,"Otro software malicioso (troyanos, robo de información)",Software malicioso,"C, I, D"
+AM-04,Robo o compromiso de credenciales,Humana deliberada,"C, I"
+AM-05,Fraude por suplantación de correo (BEC),Humana deliberada,I
+AM-06,Acceso no autorizado por personal interno o excolaboradores,Humana deliberada,"C, I"
+AM-07,Divulgación accidental de información,Humana accidental,C
+AM-08,Error humano en operación o configuración,Humana accidental,"I, D"
+AM-09,Explotación de vulnerabilidades técnicas,Humana deliberada,"C, I, D"
+AM-10,Ataque de denegación de servicio,Humana deliberada,D
+AM-11,Falla o interrupción de proveedor o servicio en la nube,Proveedores,D
+AM-12,Compromiso a través de un proveedor (cadena de suministro),Proveedores,"C, I, D"
+AM-13,Robo o pérdida de equipos,Física,"C, D"
+AM-14,Falla de hardware,Técnica,D
+AM-15,Falla o error de software,Técnica,"I, D"
+AM-16,Corte de energía eléctrica,Ambiental / servicios,D
+AM-17,Falla de telecomunicaciones o internet,Ambiental / servicios,D
+AM-18,Incendio,Ambiental / servicios,D
+AM-19,Sismo,Natural,D
+AM-20,Inundación o daño por agua,Natural,D
+AM-21,Acceso físico no autorizado,Física,"C, I"
+AM-22,Ausencia o salida de personal clave,Organizacional,D
+AM-23,Sabotaje interno,Humana deliberada,"I, D"
+AM-24,Robo de propiedad intelectual o espionaje,Humana deliberada,C
+AM-25,"Incumplimiento legal, regulatorio o contractual",Organizacional,C
+AM-26,Uso indebido de herramientas de IA generativa,Humana accidental,C
+AM-27,Borrado o modificación accidental de información,Humana accidental,"I, D"
+AM-28,Interceptación de comunicaciones,Humana deliberada,C
+AM-29,Uso de software no autorizado,Humana accidental,"C, I"
+AM-30,Toma de control de una cuenta privilegiada,Humana deliberada,"C, I, D"

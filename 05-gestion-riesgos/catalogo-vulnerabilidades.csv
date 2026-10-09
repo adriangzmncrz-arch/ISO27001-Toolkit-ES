@@ -1,0 +1,31 @@
+id,vulnerabilidad
+VU-01,Ausencia de autenticación multifactor
+VU-02,Contraseñas débiles o reutilizadas
+VU-03,Falta de concientización del personal
+VU-04,Parches de seguridad no aplicados
+VU-05,Software o sistemas sin soporte del fabricante
+VU-06,"Respaldos inexistentes, no probados o no aislados"
+VU-07,Privilegios excesivos
+VU-08,Proceso de bajas de personal sin control
+VU-09,Equipos sin cifrado de disco
+VU-10,Configuraciones por defecto o no endurecidas
+VU-11,Falta de registro y monitoreo de eventos
+VU-12,Red sin segmentación
+VU-13,Dependencia de un solo proveedor sin plan de salida
+VU-14,Contratos con proveedores sin cláusulas de seguridad
+VU-15,Sin procedimiento de respuesta a incidentes
+VU-16,Punto único de falla en la infraestructura
+VU-17,Conocimiento concentrado en una sola persona
+VU-18,Control de acceso físico insuficiente
+VU-19,Información sin clasificar
+VU-20,Código sin revisión ni pruebas de seguridad
+VU-21,Secretos o credenciales en código o documentos
+VU-22,Solicitudes de pago sin verificación por un segundo canal
+VU-23,Servicios innecesarios expuestos a internet
+VU-24,Equipos sin protección antimalware o EDR
+VU-25,Datos reales en ambientes de prueba
+VU-26,Sin respaldo eléctrico (UPS o planta)
+VU-27,Instalaciones expuestas a riesgos ambientales
+VU-28,Inventario de activos incompleto
+VU-29,Dispositivos personales sin gestión
+VU-30,Sin lineamientos para el uso de IA generativa
